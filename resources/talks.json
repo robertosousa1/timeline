@@ -1,0 +1,24 @@
+[
+  {
+    "title": "Explorando o mundo Serverless",
+    "abstract": "Palestra sobre Serverless, abordando conceitos, casos de uso, principais vantagens e desvantagens e como essa arquitetura pode ajudar o ecossistema de uma aplicação.",
+    "type": "talk",
+    "event": {
+      "link": "https://www.meetup.com/pt-BR/AngularJS-Sao-Paulo/events/270774440/",
+      "name": "AngularSP #28"
+    },
+    "additionalLinks": [
+      "https://www.youtube.com/watch?v=kqHDCh6ljbE&t=3460s"
+    ],
+    "slides": "https://www.slideshare.net/RobertoAlves95/explorando-o-mundo-serverless-235292327",
+    "video": "https://www.youtube.com/watch?v=a7zkyhaTZzM&t=1754s",
+    "tags": ["serverless", "angular"],
+    "location": {
+      "country": "Brazil",
+      "uf": "SP",
+      "city": "São Paulo"
+    },
+    "language": "pt-br",
+    "date": "10-06-2020"
+  }
+]

@@ -1,0 +1,26 @@
+{
+  "name": "timeline",
+  "version": "1.0.0",
+  "description": "_Search with `⌘/ctrl + f`_",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/robertosousa1/timeline.git"
+  },
+  "author": "robertosousa1",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/robertosousa1/timeline/issues"
+  },
+  "homepage": "https://github.com/robertosousa1/timeline#readme",
+  "dependencies": {
+    "jimp": "^0.6.4",
+    "json2md": "^1.6.1",
+    "moment": "^2.24.0",
+    "moment-timezone": "^0.5.31"
+  }
+}

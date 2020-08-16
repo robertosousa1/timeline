@@ -1,0 +1,12 @@
+[
+    {
+        "title": "Replace Special Characters",
+        "abstract": "Uma biblioteca capaz de substituir caracteres especiais para seus respectivos caracteres simples. \n\nA biblioteca é um projeto open-source, foi publicada no gerenciador oficial de pacotes do JavaScript (NPM) e está disponível para qualquer pessoa contribuir e/ou utilizar.",
+        "type": "project",
+        "link": "https://www.npmjs.com/package/replace-special-characters",
+        "tags": ["nodejs", "npm", "library", "open source"],
+        "additionalLinks": ["https://github.com/robertosousa1/replace-special-characters"],
+        "language": "pt-br",
+        "date": "20-04-2020"
+    }
+]
