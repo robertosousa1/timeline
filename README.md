@@ -57,7 +57,7 @@ Localização: São Paulo - SP, Brazil.
 
 ## Projetos
 
-### <a href="https://www.npmjs.com/package/replace-special-characters" target="_blank">Replace Special Characters (pt-br)</a>
+### <a href="https://www.npmjs.com/package/replace-special-characters" target="_blank">Replace Special Characters (en-us)</a>
 
 #### Data: 20-04-2020
 
