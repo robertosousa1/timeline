@@ -71,7 +71,7 @@ Resumo:
 
 _Tags: `autismotech`, `hackathon`, `design thinking`, `prototipação`_
 
-### <a href="undefined" target="_blank">Avançando em segurança em APIs REST (pt-br)</a>
+### <a href="https://www.meetup.com/pt-BR/nodebr/events/271027497/" target="_blank">Avançando em segurança em APIs REST - NodeBR (pt-br)</a>
 
 #### Data: 04-06-2020
 
@@ -89,7 +89,7 @@ Resumo:
 
 _Tags: `nodejs`, `express`, `segurança`, `rest`_
 
-### <a href="undefined" target="_blank">Tarefas em background utilizando Node.js e Redis - Digital Innovation One (pt-br)</a>
+### <a href="https://digitalinnovation.one/projetos/tarefas-em-background-utilizando-nodejs-e-redis" target="_blank">Tarefas em background utilizando Node.js e Redis - Digital Innovation One (pt-br)</a>
 
 #### Data: 16-04-2020
 
