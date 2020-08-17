@@ -71,14 +71,14 @@ Resumo:
 
 _Tags: `autismotech`, `hackathon`, `design thinking`, `prototipação`_
 
-### <a href="https://www.meetup.com/pt-BR/nodebr/events/271027497/" target="_blank">Avançando em segurança em APIs REST - NodeBR (pt-br)</a>
+### <a href="undefined" target="_blank">Avançando em segurança em APIs REST (pt-br)</a>
 
 #### Data: 04-06-2020
 
 
 Resumo:
 
-> Meetup onde ministrei um conteúdo focado em segurança no desenvolvimento de APIs REST em Node.js. <br />Assuntos abordados: Tratamento de exceções, bloqueio de ataques de força bruta, configuração de rate limit, utilização de CORS, utilização do helmet, configuração de cookies no Express, checagem de possíveis vulnerabilidades, etc.
+> Meetup onde ministrei um conteúdo focado em segurança no desenvolvimento de APIs REST em Node.js. Assuntos abordados: Tratamento de exceções, bloqueio de ataques de força bruta, configuração de rate limit, utilização de CORS, utilização do helmet, configuração de cookies no Express, checagem de possíveis vulnerabilidades, etc.
 > 
 > <b>Links</b>
 > 
@@ -89,14 +89,14 @@ Resumo:
 
 _Tags: `nodejs`, `express`, `segurança`, `rest`_
 
-### <a href="https://digitalinnovation.one/projetos/tarefas-em-background-utilizando-nodejs-e-redis" target="_blank">Tarefas em background utilizando Node.js e Redis - Digital Innovation One (pt-br)</a>
+### <a href="undefined" target="_blank">Tarefas em background utilizando Node.js e Redis - Digital Innovation One (pt-br)</a>
 
 #### Data: 16-04-2020
 
 
 Resumo:
 
-> Webinar ensinando, de forma prática, como trabalhar com o conceito chamado “Background jobs”, ou seja, processando requisições em fundo, passando a responsabilidade para uma thread paralela da aplicação, definindo prioridade de processamento, monitorando eventos, quantidade de processamentos simultâneos e mais, tudo isso utilizando Node.js e Redis.<br /><br />Após ultrapassar 5k de views pela DIO, foi adicionado na grade do Bootcamp de Node.js.
+> Webinar ensinando, de forma prática, como trabalhar com o conceito chamado “Background jobs”, ou seja, processando requisições em fundo, passando a responsabilidade para uma thread paralela da aplicação, definindo prioridade de processamento, monitorando eventos, quantidade de processamentos simultâneos e mais, tudo isso utilizando Node.js e Redis. Após ultrapassar 5k de views pela DIO, foi adicionado na grade do Bootcamp de Node.js.
 > 
 > <b>Links</b>
 > 
