@@ -8,5 +8,31 @@
     "tags": ["autismotech", "hackathon", "design thinking", "prototipação"],
     "language": "pt-br",
     "date": "21-08-2020 - 05-09-2020"
+  },
+  {
+    "title": "Avançando em segurança em APIs REST - NodeBR",
+    "abstract": "Meetup onde ministrei um conteúdo focado em segurança no desenvolvimento de APIs REST em Node.js. Assuntos abordados: Tratamento de exceções, bloqueio de ataques de força bruta, configuração de rate limit, utilização de CORS, utilização do helmet, configuração de cookies no Express, checagem de possíveis vulnerabilidades, etc.",
+    "type": "video",
+    "additionalLinks": [
+      "https://www.youtube.com/watch?v=E7PV7cm_1pw&feature=youtu.be",
+      "https://github.com/robertosousa1/advancing-safely-class-nodebr/"
+    ],
+    "link": "https://www.meetup.com/pt-BR/nodebr/events/271027497/",
+    "tags": ["nodejs", "express", "segurança", "rest"],
+    "language": "pt-br",
+    "date": "04-06-2020"
+  },
+  {
+    "title": "Tarefas em background utilizando Node.js e Redis - Digital Innovation One",
+    "abstract": "Webinar ensinando, de forma prática, como trabalhar com o conceito chamado “Background jobs”, ou seja, processando requisições em fundo, passando a responsabilidade para uma thread paralela da aplicação, definindo prioridade de processamento, monitorando eventos, quantidade de processamentos simultâneos e mais, tudo isso utilizando Node.js e Redis. Após ultrapassar 5k de views pela DIO, foi adicionado na grade do Bootcamp de Node.js.",
+    "type": "video",
+    "additionalLinks": [
+      "https://www.youtube.com/watch?v=mRHpgEF5JGU&feature=emb_logo",
+      "https://github.com/robertosousa1/background-jobs-class-by-dio"
+    ],
+    "link": "https://digitalinnovation.one/projetos/tarefas-em-background-utilizando-nodejs-e-redis",
+    "tags": ["nodejs", "redis"],
+    "language": "pt-br",
+    "date": "16-04-2020"
   }
 ]
