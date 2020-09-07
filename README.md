@@ -52,7 +52,7 @@ Resumo:
 _Tags: `node`, `streams`, `tdc`_
 
 
-Localização: São Paulo - SP, Brazil.
+Localização: São Paulo - SP, Brasil.
 
 ### Explorando o mundo Serverless (pt-br)
 
@@ -78,7 +78,7 @@ Resumo:
 _Tags: `serverless`, `angular`_
 
 
-Localização: São Paulo - SP, Brazil.
+Localização: São Paulo - SP, Brasil.
 
 
 ## Eventos
