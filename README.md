@@ -4,7 +4,7 @@ _Pesquisar com `⌘/ctrl + f`_
 
 Esta é uma lista de atividades e palestras que dei em eventos e conferências (começando pela mais recente).
 
-**Roberto Alves** é engenheiro de software, palestrante, especialista em aplicações Node.js, Javascript e TypeScript. Entusiasta de Arquitetura de Software. Contribuidor Open Source. Tem experiência como palestrante e mentor em comunidades, eventos e cursos online, atualmente atuando como consultor de software sênior e líder técnico pela <a href="https://www.altran.com.br" target="__blank">**Altran**</a>.
+**Roberto Alves** é engenheiro de software sênior e líder técnico. Desenvolvedor desde os 14 anos. Entusiasta de arquitetura de software. Contribuidor Open Source. Mentor em comunidades e cursos online. Palestrante em eventos de tecnologia. Atualmente trabalha como consultor de software sênior e referência técnica pela <a href="https://www.altran.com.br" target="__blank">**Altran**</a>.
 
 <!-- CV Online:  []()   -->
 LinkedIn: [br.linkedin.com/in/robertosousa01](https://www.linkedin.com/in/robertosousa01)  
@@ -12,21 +12,47 @@ Github:  [github.com/robertosousa1](https://github.com/robertosousa1)
 
 ### Resumo das contribuições
 
-* **Palestras**: junho/2020 - junho/2020 
+* **Palestras**: agosto/2020 - junho/2020 
 * **Eventos**: agosto/2020 - abril/2020 
 * **Projetos**: abril/2020 - abril/2020 
-<!-- * **Blog Posts**: agosto/2020 - agosto/2020  -->
+<!-- * **Blog Posts**: setembro/2020 - setembro/2020  -->
 
-#### Número de apresentações: 5
+#### Número de apresentações: 6
 
 ## Sumário
 
-- [Palestras (01)](#palestras)
+- [Palestras (02)](#palestras)
 - [Eventos (03)](#eventos)
 - [Projetos (01)](#projetos)
 <!-- - [Blog Posts (00)](#blog-posts) -->
 
 ## Palestras
+
+### Streams, a melhor e mais incompreendida idéia do Node.js! (pt-br)
+
+#### Data: 26-08-2020
+
+
+<a href="https://thedevconf.com/tdc/2020/sampaonline/trilha-node-js" target="_blank">#TheDevConf | SP Online : Trilha Node.JS</a>
+
+
+  
+
+
+Resumo:
+
+> Palestra sobre Streams, um dos recursos mais poderosos e maduros do Node.js. Mostrando como Node pode ser a escolha certa quando o assunto é processar e receber arquivos sob demanda.
+> 
+> <b>Links</b>
+> 
+> - <a href="https://thedevconf.com/tdc/2020/sampaonline/trilha-node-js" target="_blank">https://thedevconf.com/tdc/2020/sampaonline/trilha-node-js</a>
+> 
+
+
+_Tags: `node`, `streams`, `TheDevConf`_
+
+
+Localização: São Paulo - SP, Brazil.
 
 ### Explorando o mundo Serverless (pt-br)
 
