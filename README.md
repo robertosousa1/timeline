@@ -49,7 +49,7 @@ Resumo:
 > 
 
 
-_Tags: `node`, `streams`, `TheDevConf`_
+_Tags: `node`, `streams`, `tdc`_
 
 
 Localização: São Paulo - SP, Brazil.
