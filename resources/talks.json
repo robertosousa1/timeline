@@ -1,5 +1,23 @@
 [
   {
+    "title": "Streams, a melhor e mais incompreendida idéia do Node.js!",
+    "abstract": "Palestra sobre Streams, um dos recursos mais poderosos e maduros do Node.js. Mostrando como Node pode ser a escolha certa quando o assunto é processar e receber arquivos sob demanda.",
+    "type": "talk",
+    "event": {
+      "link": "https://thedevconf.com/tdc/2020/sampaonline/trilha-node-js",
+      "name": "#TheDevConf | SP Online : Trilha Node.JS"
+    },
+    "slides": "https://www.slideshare.net/RobertoAlves95/nodejs-streams-tdc-sp-238260954",
+    "tags": ["node", "streams", "TheDevConf"],
+    "location": {
+      "country": "Brazil",
+      "uf": "SP",
+      "city": "São Paulo"
+    },
+    "language": "pt-br",
+    "date": "26-08-2020"
+  },
+  {
     "title": "Explorando o mundo Serverless",
     "abstract": "Palestra sobre Serverless, abordando conceitos, casos de uso, principais vantagens e desvantagens e como essa arquitetura pode ajudar o ecossistema de uma aplicação.",
     "type": "talk",

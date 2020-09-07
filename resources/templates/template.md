@@ -4,7 +4,7 @@ _Pesquisar com `⌘/ctrl + f`_
 
 Esta é uma lista de atividades e palestras que dei em eventos e conferências (começando pela mais recente).
 
-**Roberto Alves** é engenheiro de software, palestrante, especialista em aplicações Node.js, Javascript e TypeScript. Entusiasta de Arquitetura de Software. Contribuidor Open Source. Tem experiência como palestrante e mentor em comunidades, eventos e cursos online, atualmente atuando como consultor de software sênior e líder técnico pela <a href="https://www.altran.com.br" target="__blank">**Altran**</a>.
+**Roberto Alves** é engenheiro de software sênior e líder técnico. Desenvolvedor desde os 14 anos. Entusiasta de arquitetura de software. Contribuidor Open Source. Mentor em comunidades e cursos online. Palestrante em eventos de tecnologia. Atualmente trabalha como consultor de software sênior e referência técnica pela <a href="https://www.altran.com.br" target="__blank">**Altran**</a>.
 
 <!-- CV Online:  []()   -->
 LinkedIn: [br.linkedin.com/in/robertosousa01](https://www.linkedin.com/in/robertosousa01)  
