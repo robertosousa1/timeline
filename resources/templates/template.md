@@ -15,7 +15,7 @@ Github:  [github.com/robertosousa1](https://github.com/robertosousa1)
 * **Palestras**: $$timeline_talk$$
 * **Eventos**: $$timeline_demo$$
 * **Projetos**: $$timeline_project$$
-<!-- * **Blog Posts**: $$timeline_blog$$ -->
+* **Blog Posts**: $$timeline_blog$$
 
 #### Número de apresentações: $$count_total
 
@@ -24,7 +24,7 @@ Github:  [github.com/robertosousa1](https://github.com/robertosousa1)
 - [Palestras ($$count_talk)](#palestras)
 - [Eventos ($$count_demo)](#eventos)
 - [Projetos ($$count_project)](#projetos)
-<!-- - [Blog Posts ($$count_blog)](#blog-posts) -->
+- [Blog Posts ($$count_blog)](#blog-posts)
 
 ## Palestras
 
@@ -38,6 +38,6 @@ $$video-content$$
 
 $$project-content$$
 
-<!-- ## Blog Posts -->
+## Blog Posts
 
-<!-- $$blog-content$$ -->
+$$blog-content$$

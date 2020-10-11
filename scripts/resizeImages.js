@@ -36,7 +36,6 @@ async function reScale(myPath, size) {
       continue;
     }
     const pathFile = `${myPath}/${file}`;
-    // console.log('file', pathFile);
     console.log("creating", `${outPut}/${file}`);
     const lenna = await Jimp.read(pathFile);
     const [w, h] = size.split("x").map(parseInt);

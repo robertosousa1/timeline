@@ -1,5 +1,77 @@
 [
   {
+    "title": "Convidado - Podcast",
+    "abstract": "Participação no Podcast da Hipsters.Tech do Grupo Alura sobre Telemedicina e saúde digital, abordando tópicos como contexto histórico, avanços tecnológicos, pandemia, legislação, etc.",
+    "type": "video",
+    "additionalLinks": [
+      "https://hipsters.tech/"
+    ],
+    "link": "https://hipsters.tech/telemedicina-e-saude-digital-hipsters-ponto-tech-223/",
+    "tags": ["podcast", "telemedicina", "alura"],
+    "language": "pt-br",
+    "date": "20-10-2020"
+  },
+  {
+    "title": "Mentor do laboratório 'Entendendo de métodos HTTPs e navegação com React Native'",
+    "abstract": "Mentor do lab 'Entendendo de métodos HTTPs e navegação com React Native', coparticipante da grande do Bootcamp - React Native Mobile Developer. Temas abordados: React Navigation v5, React Hooks, códigos de status de respostas HTTP, consumo de API REST, JSON-Server e etc.",
+    "type": "video",
+    "additionalLinks": [
+      "https://digitalinnovation.one/bootcamps/react-native-mobile-developer?ref=novotec"
+    ],
+    "link": "https://web.digitalinnovation.one/labs",
+    "tags": ["react native"],
+    "language": "pt-br",
+    "date": "08-10-2020"
+  },
+  {
+    "title": "Professor Convidado - Einstein Ensino",
+    "abstract": "Lecionei como Professor convidado no curso de Telemedicina da graduação de Medicina da faculdade Einstein Ensino abordando o tema 'Conceitos de informática médica aplicada a Telemedicina'.",
+    "type": "video",
+    "additionalLinks": [""],
+    "link": "https://ensino.einstein.br/graduacao_em_medicina_gradtp1/p?tab=51#",
+    "tags": ["professor", "graduação", "telemedicina", "einstein"],
+    "language": "pt-br",
+    "date": "07-10-2020"
+  },
+  {
+    "title": "Professor Convidado - Einstein Ensino",
+    "abstract": "Lecionei como Professor convidado no curso de Telemedicina da graduação de Medicina da faculdade Einstein Ensino abordando o tema 'Conceitos em ciência da computação em soluções médicas'.",
+    "type": "video",
+    "additionalLinks": [""],
+    "link": "https://ensino.einstein.br/graduacao_em_medicina_gradtp1/p?tab=51#",
+    "tags": ["professor", "graduação", "telemedicina", "einstein"],
+    "language": "pt-br",
+    "date": "30-09-2020"
+  },
+  {
+    "title": "Mentor do laboratório 'Criando um clone do Instagram com React Native'",
+    "abstract": "Mentor do mini projeto 'Criando um clone do Instagram com React Native' para a grade do curso de capacitação profissional para alunos do ensino médio com parceira com o Governo do Estado de São Paulo. Temas abordados: React Navigation v5, React Hooks, Animated, consumo de API REST, JSON-Server e etc. Posteriormente, o projeto foi adicionado aos Labs da DIO.",
+    "type": "video",
+    "additionalLinks": [
+      "https://web.digitalinnovation.one/lab/criando-um-clone-do-instagram-com-react-native/learning/bf410a27-cfdd-40af-bf09-7209042cfcc4",
+      "https://www.instagram.com/p/CFkFTCcnn0b/",
+      "https://www.facebook.com/2216715488658102/videos/759845894563535"
+    ],
+    "link": "https://www.abcdoabc.com.br/abc/noticia/governo-sp-startup-oferecem-25-mil-bolsas-gratuitas-ti-107070",
+    "tags": ["react native"],
+    "language": "pt-br",
+    "date": "25-09-2020"
+  },
+  {
+    "title": "Mentor do módulo sobre Redux no Bootcamp - React Native Mobile Developer",
+    "abstract": "O Bootcamp - React Native Mobile Developer, oferecido pela Digital Innovation One é totalmente grautuito. Abordando os seguintes temas: Arquitetura Flux, gerenciamento de estado com Redux e Redux Saga, React Navigation v5, React Hooks, Animação com React Native Lottie e etc.",
+    "type": "video",
+    "additionalLinks": [
+      "https://web.digitalinnovation.one/course/desenvolvendo-aplicativos-moveis-com-redux-e-react-native/learning/ea3a34ec-f65e-497b-b47e-d0f6e8e033db?back=/track/react-native-mobile-developer&bootcamp_id=6c4fbab6-f510-4131-af61-88f21a32fc67",
+      "https://www.facebook.com/digitalinnovationone/photos/-inscri%C3%A7%C3%B5es-abertas-para-o-bootcamp-react-native-mobile-developernele-voc%C3%AA-ir%C3%A1-a/2710072105989102/",
+      "https://www.instagram.com/p/CFhgaDhgvno/"
+    ],
+    "link": "https://digitalinnovation.one/bootcamps/react-native-mobile-developer?ref=novotec",
+    "tags": ["react native", "bootcamp"],
+    "language": "pt-br",
+    "date": "25-09-2020"
+  },
+  {
     "title": "Hackathon - Autismo Tech",
     "abstract": "O Autismo Tech é um Hackathon com o objetivo de encontrar soluções para incluir os autistas no mercado de trabalho, contando com equipes multidisciplinares, mentorei os times nas fases de ideação e prototipação.",
     "type": "video",
