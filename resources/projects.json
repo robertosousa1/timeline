@@ -1,7 +1,20 @@
 [
     {
+        "title": "Doctor Assistant",
+        "abstract": "Doctor Assistant é um projeto Open Source desenvolvido durante o Startup One 2020 da FIAP para o curso de Sistemas de informação. O projeto consiste na construção de uma rede neural convolucional profunda (Deep Convolutional Network) para detecção de câncer de pele em imagens médicas. Foram analisadas 25330 imagens para o desenvolvimento do algoritmo e o modelo final possui 4 saídas com acurácia de 99.55%.",
+        "type": "project",
+        "link": "https://github.com/robertosousa1/skin-cancer-detection",
+        "tags": ["machine learning", "medicina", "open source"],
+        "additionalLinks": [
+            "https://alb-ml-skin-cancer-api-1747886747.us-east-1.elb.amazonaws.com",
+            "https://www.linkedin.com/in/robertosousa01/#projects"
+        ],
+        "language": "en-us",
+        "date": "13-09-2020"
+    },
+    {
         "title": "Replace Special Characters",
-        "abstract": "Uma biblioteca capaz de substituir caracteres especiais para seus respectivos caracteres simples. \n\nA biblioteca é um projeto open-source, foi publicada no gerenciador oficial de pacotes do JavaScript (NPM) e está disponível para qualquer pessoa contribuir e/ou utilizar.",
+        "abstract": "Uma biblioteca capaz de substituir caracteres especiais para seus respectivos caracteres simples. A biblioteca é um projeto open-source, foi publicada no gerenciador oficial de pacotes do JavaScript (NPM) e está disponível para qualquer pessoa contribuir e/ou utilizar.",
         "type": "project",
         "link": "https://www.npmjs.com/package/replace-special-characters",
         "tags": ["nodejs", "npm", "library", "open source"],

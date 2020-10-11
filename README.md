@@ -13,17 +13,17 @@ Github:  [github.com/robertosousa1](https://github.com/robertosousa1)
 ### Resumo das contribuições
 
 * **Palestras**: agosto/2020 - junho/2020 
-* **Eventos**: agosto/2020 - abril/2020 
-* **Projetos**: abril/2020 - abril/2020 
-<!-- * **Blog Posts**: setembro/2020 - setembro/2020  -->
+* **Eventos**: outubro/2020 - abril/2020 
+* **Projetos**: setembro/2020 - abril/2020 
+<!-- * **Blog Posts**: outubro/2020 - outubro/2020  -->
 
-#### Número de apresentações: 6
+#### Número de apresentações: 12
 
 ## Sumário
 
 - [Palestras (02)](#palestras)
-- [Eventos (03)](#eventos)
-- [Projetos (01)](#projetos)
+- [Eventos (08)](#eventos)
+- [Projetos (02)](#projetos)
 <!-- - [Blog Posts (00)](#blog-posts) -->
 
 ## Palestras
@@ -45,7 +45,13 @@ Resumo:
 > 
 > <b>Links</b>
 > 
-> - <a href="https://thedevconf.com/tdc/2020/sampaonline/trilha-node-js" target="_blank">https://thedevconf.com/tdc/2020/sampaonline/trilha-node-js</a>
+> - <a href="https://thedevconf.com/palestrante/roberto-alves" target="_blank">https://thedevconf.com/palestrante/roberto-alves</a>
+> - <a href="https://photos.google.com/share/AF1QipN1XwLDHSA3oBJOy4ikSaf3oMUeLHgf4LLU1DKFNoEOykmOliHxBdKyer9SB3wjeA/photo/AF1QipNIL04Kqy9J3JaXm7NAhcJ_rupqgnWaJLegl4HD?key=dXl6LXo4Qkwwelgwa0FzWnRFTDRiTVlfaXUyVktn" target="_blank">https://photos.google.com/share/AF1QipN1XwLDHSA3oBJOy4ikSaf3oMUeLHgf4LLU1DKFNoEOykmOliHxBdKyer9SB3wjeA/photo/AF1QipNIL04Kqy9J3JaXm7NAhcJ_rupqgnWaJLegl4HD?key=dXl6LXo4Qkwwelgwa0FzWnRFTDRiTVlfaXUyVktn</a>
+> - <a href="https://photos.google.com/share/AF1QipN1XwLDHSA3oBJOy4ikSaf3oMUeLHgf4LLU1DKFNoEOykmOliHxBdKyer9SB3wjeA/photo/AF1QipNgEVzuhGLPWbM7ll24asawHd9M71IODghNT_dk?key=dXl6LXo4Qkwwelgwa0FzWnRFTDRiTVlfaXUyVktn" target="_blank">https://photos.google.com/share/AF1QipN1XwLDHSA3oBJOy4ikSaf3oMUeLHgf4LLU1DKFNoEOykmOliHxBdKyer9SB3wjeA/photo/AF1QipNgEVzuhGLPWbM7ll24asawHd9M71IODghNT_dk?key=dXl6LXo4Qkwwelgwa0FzWnRFTDRiTVlfaXUyVktn</a>
+> - <a href="https://photos.google.com/share/AF1QipN1XwLDHSA3oBJOy4ikSaf3oMUeLHgf4LLU1DKFNoEOykmOliHxBdKyer9SB3wjeA/photo/AF1QipPdGzP1m5bRbz4TK7reWKKhGUQPB-LhA2P4wzlq?key=dXl6LXo4Qkwwelgwa0FzWnRFTDRiTVlfaXUyVktn" target="_blank">https://photos.google.com/share/AF1QipN1XwLDHSA3oBJOy4ikSaf3oMUeLHgf4LLU1DKFNoEOykmOliHxBdKyer9SB3wjeA/photo/AF1QipPdGzP1m5bRbz4TK7reWKKhGUQPB-LhA2P4wzlq?key=dXl6LXo4Qkwwelgwa0FzWnRFTDRiTVlfaXUyVktn</a>
+> - <a href="https://photos.google.com/share/AF1QipN1XwLDHSA3oBJOy4ikSaf3oMUeLHgf4LLU1DKFNoEOykmOliHxBdKyer9SB3wjeA/photo/AF1QipP9UAlHb35rC85o5nHB1qK6LlLZV7hNLAQ7_GW6?key=dXl6LXo4Qkwwelgwa0FzWnRFTDRiTVlfaXUyVktn" target="_blank">https://photos.google.com/share/AF1QipN1XwLDHSA3oBJOy4ikSaf3oMUeLHgf4LLU1DKFNoEOykmOliHxBdKyer9SB3wjeA/photo/AF1QipP9UAlHb35rC85o5nHB1qK6LlLZV7hNLAQ7_GW6?key=dXl6LXo4Qkwwelgwa0FzWnRFTDRiTVlfaXUyVktn</a>
+> - <a href="https://photos.google.com/share/AF1QipN1XwLDHSA3oBJOy4ikSaf3oMUeLHgf4LLU1DKFNoEOykmOliHxBdKyer9SB3wjeA/photo/AF1QipNvG6iCJ_VvBTIe3jBI_sfvhlAnLSWVM0ng_x6T?key=dXl6LXo4Qkwwelgwa0FzWnRFTDRiTVlfaXUyVktn" target="_blank">https://photos.google.com/share/AF1QipN1XwLDHSA3oBJOy4ikSaf3oMUeLHgf4LLU1DKFNoEOykmOliHxBdKyer9SB3wjeA/photo/AF1QipNvG6iCJ_VvBTIe3jBI_sfvhlAnLSWVM0ng_x6T?key=dXl6LXo4Qkwwelgwa0FzWnRFTDRiTVlfaXUyVktn</a>
+> - <a href="https://photos.google.com/share/AF1QipN1XwLDHSA3oBJOy4ikSaf3oMUeLHgf4LLU1DKFNoEOykmOliHxBdKyer9SB3wjeA/photo/AF1QipNxW0hOlt1PnluRo0_dLoci2pvP7VXHRnOm4x4w?key=dXl6LXo4Qkwwelgwa0FzWnRFTDRiTVlfaXUyVktn" target="_blank">https://photos.google.com/share/AF1QipN1XwLDHSA3oBJOy4ikSaf3oMUeLHgf4LLU1DKFNoEOykmOliHxBdKyer9SB3wjeA/photo/AF1QipNxW0hOlt1PnluRo0_dLoci2pvP7VXHRnOm4x4w?key=dXl6LXo4Qkwwelgwa0FzWnRFTDRiTVlfaXUyVktn</a>
 > 
 
 
@@ -82,6 +88,89 @@ Localização: São Paulo - SP, Brasil.
 
 
 ## Eventos
+
+### <a href="https://web.digitalinnovation.one/labs" target="_blank">Mentor do laboratório 'Entendendo de métodos HTTPs e navegação com React Native' (pt-br)</a>
+
+#### Data: 08-10-2020
+
+
+Resumo:
+
+> Mentor do lab 'Entendendo de métodos HTTPs e navegação com React Native', coparticipante da grande do Bootcamp - React Native Mobile Developer. Temas abordados: React Navigation v5, React Hooks, códigos de status de respostas HTTP, consumo de API REST, JSON-Server e etc.
+> 
+> <b>Links</b>
+> 
+> - <a href="https://digitalinnovation.one/bootcamps/react-native-mobile-developer?ref=novotec" target="_blank">https://digitalinnovation.one/bootcamps/react-native-mobile-developer?ref=novotec</a>
+> 
+
+
+_Tags: `react native`_
+
+### <a href="https://ensino.einstein.br/graduacao_em_medicina_gradtp1/p?tab=51#" target="_blank">Professor Convidado - Einstein Ensino (pt-br)</a>
+
+#### Data: 07-10-2020
+
+
+Resumo:
+
+> Lecionei como Professor convidado no curso de Telemedicina da graduação de Medicina da faculdade Einstein Ensino abordando o tema 'Conceitos de informática médica aplicada a Telemedicina'.
+> 
+> 
+
+
+_Tags: `professor`, `graduação`_
+
+### <a href="https://ensino.einstein.br/graduacao_em_medicina_gradtp1/p?tab=51#" target="_blank">Professor Convidado - Einstein Ensino (pt-br)</a>
+
+#### Data: 30-09-2020
+
+
+Resumo:
+
+> Lecionei como Professor convidado no curso de Telemedicina da graduação de Medicina da faculdade Einstein Ensino abordando o tema 'Conceitos em ciência da computação em soluções médicas'.
+> 
+> 
+
+
+_Tags: `professor`, `graduação`_
+
+### <a href="https://www.abcdoabc.com.br/abc/noticia/governo-sp-startup-oferecem-25-mil-bolsas-gratuitas-ti-107070" target="_blank">Mentor do laboratório 'Criando um clone do Instagram com React Native' (pt-br)</a>
+
+#### Data: 25-09-2020
+
+
+Resumo:
+
+> Mentor do mini projeto 'Criando um clone do Instagram com React Native' para a grade do curso de capacitação profissional para alunos do ensino médio com parceira com o Governo do Estado de São Paulo. Temas abordados: React Navigation v5, React Hooks, Animated, consumo de API REST, JSON-Server e etc. Posteriormente, o projeto foi adicionado aos Labs da DIO.
+> 
+> <b>Links</b>
+> 
+> - <a href="https://web.digitalinnovation.one/lab/criando-um-clone-do-instagram-com-react-native/learning/bf410a27-cfdd-40af-bf09-7209042cfcc4" target="_blank">https://web.digitalinnovation.one/lab/criando-um-clone-do-instagram-com-react-native/learning/bf410a27-cfdd-40af-bf09-7209042cfcc4</a>
+> - <a href="https://www.instagram.com/p/CFkFTCcnn0b/" target="_blank">https://www.instagram.com/p/CFkFTCcnn0b/</a>
+> - <a href="https://www.facebook.com/2216715488658102/videos/759845894563535" target="_blank">https://www.facebook.com/2216715488658102/videos/759845894563535</a>
+> 
+
+
+_Tags: `react native`_
+
+### <a href="https://digitalinnovation.one/bootcamps/react-native-mobile-developer?ref=novotec" target="_blank">Mentor do módulo sobre Redux no Bootcamp - React Native Mobile Developer (pt-br)</a>
+
+#### Data: 25-09-2020
+
+
+Resumo:
+
+> O Bootcamp - React Native Mobile Developer, oferecido pela Digital Innovation One é totalmente grautuito. Abordando os seguintes temas: Arquitetura Flux, gerenciamento de estado com Redux e Redux Saga, React Navigation v5, React Hooks, Animação com React Native Lottie e etc.
+> 
+> <b>Links</b>
+> 
+> - <a href="https://web.digitalinnovation.one/course/desenvolvendo-aplicativos-moveis-com-redux-e-react-native/learning/ea3a34ec-f65e-497b-b47e-d0f6e8e033db?back=/track/react-native-mobile-developer&bootcamp_id=6c4fbab6-f510-4131-af61-88f21a32fc67" target="_blank">https://web.digitalinnovation.one/course/desenvolvendo-aplicativos-moveis-com-redux-e-react-native/learning/ea3a34ec-f65e-497b-b47e-d0f6e8e033db?back=/track/react-native-mobile-developer&bootcamp_id=6c4fbab6-f510-4131-af61-88f21a32fc67</a>
+> - <a href="https://www.facebook.com/digitalinnovationone/photos/-inscri%C3%A7%C3%B5es-abertas-para-o-bootcamp-react-native-mobile-developernele-voc%C3%AA-ir%C3%A1-a/2710072105989102/" target="_blank">https://www.facebook.com/digitalinnovationone/photos/-inscri%C3%A7%C3%B5es-abertas-para-o-bootcamp-react-native-mobile-developernele-voc%C3%AA-ir%C3%A1-a/2710072105989102/</a>
+> - <a href="https://www.instagram.com/p/CFhgaDhgvno/" target="_blank">https://www.instagram.com/p/CFhgaDhgvno/</a>
+> 
+
+
+_Tags: `react native`, `bootcamp`_
 
 ### <a href="https://autismotech.com" target="_blank">Hackathon - Autismo Tech (pt-br)</a>
 
@@ -136,6 +225,24 @@ _Tags: `nodejs`, `redis`_
 
 ## Projetos
 
+### <a href="https://github.com/robertosousa1/skin-cancer-detection" target="_blank">Doctor Assistant (en-us)</a>
+
+#### Data: 13-09-2020
+
+
+Resumo:
+
+> Doctor Assistant é um projeto Open Source desenvolvido durante o Startup One 2020 da FIAP para o curso de Sistemas de informação. O projeto consiste na construção de uma rede neural convolucional profunda (Deep Convolutional Network) para detecção de câncer de pele em imagens médicas. Foram analisadas 25330 imagens para o desenvolvimento do algoritmo e o modelo final possui 4 saídas com acurácia de 99.55%.
+> 
+> <b>Links</b>
+> 
+> - <a href="https://alb-ml-skin-cancer-api-1747886747.us-east-1.elb.amazonaws.com" target="_blank">https://alb-ml-skin-cancer-api-1747886747.us-east-1.elb.amazonaws.com</a>
+> - <a href="https://www.linkedin.com/in/robertosousa01/#projects" target="_blank">https://www.linkedin.com/in/robertosousa01/#projects</a>
+> 
+
+
+_Tags: `machine learning`, `medicina`, `open source`_
+
 ### <a href="https://www.npmjs.com/package/replace-special-characters" target="_blank">Replace Special Characters (en-us)</a>
 
 #### Data: 20-04-2020
@@ -143,9 +250,7 @@ _Tags: `nodejs`, `redis`_
 
 Resumo:
 
-> Uma biblioteca capaz de substituir caracteres especiais para seus respectivos caracteres simples. 
-> 
-> A biblioteca é um projeto open-source, foi publicada no gerenciador oficial de pacotes do JavaScript (NPM) e está disponível para qualquer pessoa contribuir e/ou utilizar.
+> Uma biblioteca capaz de substituir caracteres especiais para seus respectivos caracteres simples. A biblioteca é um projeto open-source, foi publicada no gerenciador oficial de pacotes do JavaScript (NPM) e está disponível para qualquer pessoa contribuir e/ou utilizar.
 > 
 > <b>Links</b>
 > 
