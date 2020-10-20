@@ -15,7 +15,7 @@ Github:  [github.com/robertosousa1](https://github.com/robertosousa1)
 * **Palestras**: $$timeline_talk$$
 * **Eventos**: $$timeline_demo$$
 * **Projetos**: $$timeline_project$$
-* **Blog Posts**: $$timeline_blog$$
+* **Artigos**: $$timeline_blog$$
 
 #### Número de apresentações: $$count_total
 
