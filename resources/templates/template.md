@@ -24,7 +24,7 @@ Github:  [github.com/robertosousa1](https://github.com/robertosousa1)
 - [Palestras ($$count_talk)](#palestras)
 - [Eventos ($$count_demo)](#eventos)
 - [Projetos ($$count_project)](#projetos)
-- [Blog Posts ($$count_blog)](#blog-posts)
+- [Artigos ($$count_blog)](#blog-posts)
 
 ## Palestras
 
@@ -38,6 +38,6 @@ $$video-content$$
 
 $$project-content$$
 
-## Blog Posts
+## Artigos
 
 $$blog-content$$

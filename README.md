@@ -15,7 +15,7 @@ Github:  [github.com/robertosousa1](https://github.com/robertosousa1)
 * **Palestras**: agosto/2020 - junho/2020 
 * **Eventos**: outubro/2020 - abril/2020 
 * **Projetos**: setembro/2020 - abril/2020 
-* **Blog Posts**: outubro/2020 - outubro/2020 
+* **Artigos**: outubro/2020 - outubro/2020 
 
 #### Número de apresentações: 13
 
@@ -24,7 +24,7 @@ Github:  [github.com/robertosousa1](https://github.com/robertosousa1)
 - [Palestras (02)](#palestras)
 - [Eventos (09)](#eventos)
 - [Projetos (02)](#projetos)
-- [Blog Posts (01)](#blog-posts)
+- [Artigos (01)](#blog-posts)
 
 ## Palestras
 
@@ -278,7 +278,7 @@ Resumo:
 _Tags: `nodejs`, `npm`, `library`, `open source`_
 
 
-## Blog Posts
+## Artigos
 
 ### <a href="https://imasters.com.br/javascript/descomplicando-call-apply-e-bind-em-javascript" target="_blank">Descomplicando call, apply e bind em JavaScript (pt-br)</a>
 
