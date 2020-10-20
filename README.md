@@ -15,16 +15,16 @@ Github:  [github.com/robertosousa1](https://github.com/robertosousa1)
 * **Palestras**: agosto/2020 - junho/2020 
 * **Eventos**: outubro/2020 - abril/2020 
 * **Projetos**: setembro/2020 - abril/2020 
-<!-- * **Blog Posts**: outubro/2020 - outubro/2020  -->
+* **Blog Posts**: outubro/2020 - outubro/2020 
 
-#### Número de apresentações: 12
+#### Número de apresentações: 13
 
 ## Sumário
 
 - [Palestras (02)](#palestras)
-- [Eventos (08)](#eventos)
+- [Eventos (09)](#eventos)
 - [Projetos (02)](#projetos)
-<!-- - [Blog Posts (00)](#blog-posts) -->
+- [Blog Posts (01)](#blog-posts)
 
 ## Palestras
 
@@ -89,6 +89,23 @@ Localização: São Paulo - SP, Brasil.
 
 ## Eventos
 
+### <a href="https://hipsters.tech/telemedicina-e-saude-digital-hipsters-ponto-tech-223/" target="_blank">Convidado - Podcast (pt-br)</a>
+
+#### Data: 20-10-2020
+
+
+Resumo:
+
+> Participação no Podcast da Hipsters.Tech do Grupo Alura sobre Telemedicina e saúde digital, abordando tópicos como contexto histórico, avanços tecnológicos, pandemia, legislação, etc.
+> 
+> <b>Links</b>
+> 
+> - <a href="https://hipsters.tech/" target="_blank">https://hipsters.tech/</a>
+> 
+
+
+_Tags: `podcast`, `telemedicina`, `alura`_
+
 ### <a href="https://web.digitalinnovation.one/labs" target="_blank">Mentor do laboratório 'Entendendo de métodos HTTPs e navegação com React Native' (pt-br)</a>
 
 #### Data: 08-10-2020
@@ -118,7 +135,7 @@ Resumo:
 > 
 
 
-_Tags: `professor`, `graduação`_
+_Tags: `professor`, `graduação`, `telemedicina`, `einstein`_
 
 ### <a href="https://ensino.einstein.br/graduacao_em_medicina_gradtp1/p?tab=51#" target="_blank">Professor Convidado - Einstein Ensino (pt-br)</a>
 
@@ -132,7 +149,7 @@ Resumo:
 > 
 
 
-_Tags: `professor`, `graduação`_
+_Tags: `professor`, `graduação`, `telemedicina`, `einstein`_
 
 ### <a href="https://www.abcdoabc.com.br/abc/noticia/governo-sp-startup-oferecem-25-mil-bolsas-gratuitas-ti-107070" target="_blank">Mentor do laboratório 'Criando um clone do Instagram com React Native' (pt-br)</a>
 
@@ -261,6 +278,26 @@ Resumo:
 _Tags: `nodejs`, `npm`, `library`, `open source`_
 
 
-<!-- ## Blog Posts -->
+## Blog Posts
 
-<!--  -->
+### <a href="https://imasters.com.br/javascript/descomplicando-call-apply-e-bind-em-javascript" target="_blank">Descomplicando call, apply e bind em JavaScript (pt-br)</a>
+
+#### Data: 20-10-2020
+
+
+Portal:
+
+> <a href="https://imasters.com.br/javascript/descomplicando-call-apply-e-bind-em-javascript" target="_blank">iMasters Post</a>
+
+
+Resumo:
+
+> Se você programa em JavaScript há algum tempo provavelmente já se esbarrou com alguma das seguintes funções 'call', 'apply' ou 'bind'. À primeira vista podem ser vistas como algo complexo, porém é um grande aliado do desenvolvedor quando a expressão this está inserida no código.
+> 
+> <b>Links</b>
+> 
+> - <a href="https://imasters.com.br/perfil/robertosousa" target="_blank">https://imasters.com.br/perfil/robertosousa</a>
+> 
+
+
+_Tags: `imasters`_

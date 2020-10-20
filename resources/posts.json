@@ -1,14 +1,17 @@
-{
-  "title": "Descomplicando call, apply e bind em JavaScript",
-  "abstract": "Se você programa em JavaScript há algum tempo provavelmente já se esbarrou com alguma das seguintes funções 'call', 'apply' ou 'bind'. À primeira vista podem ser vistas como algo complexo, porém é um grande aliado do desenvolvedor quando a expressão this está inserida no código.",
-  "type": "post",
-  "link": "https://imasters.com.br/javascript/descomplicando-call-apply-e-bind-em-javascript",
-  "additionalLinks": ["https://imasters.com.br/perfil/robertosousa"],
-  "portal": {
+[
+  {
+    "title": "Descomplicando call, apply e bind em JavaScript",
+    "abstract": "Se você programa em JavaScript há algum tempo provavelmente já se esbarrou com alguma das seguintes funções 'call', 'apply' ou 'bind'. À primeira vista podem ser vistas como algo complexo, porém é um grande aliado do desenvolvedor quando a expressão this está inserida no código.",
+    "type": "post",
     "link": "https://imasters.com.br/javascript/descomplicando-call-apply-e-bind-em-javascript",
-    "name": "iMasters Post"
-  },
-  "tags": ["imasters"],
-  "language": "pt-br",
-  "date": "20-10-2020"
-}
+    "additionalLinks": ["https://imasters.com.br/perfil/robertosousa"],
+    "portal": {
+      "link": "https://imasters.com.br/javascript/descomplicando-call-apply-e-bind-em-javascript",
+      "name": "iMasters Post"
+    },
+    "tags": ["imasters"],
+    "language": "pt-br",
+    "date": "20-10-2020"
+  }
+  
+]
