@@ -1,5 +1,26 @@
 [
   {
+    "title": "LocalStack - A 'nuvem offline'",
+    "abstract": "Palestra focada na incrível tecnologia chamada LocalStack e apelidada de 'nuvem offline', capaz de emular serviços AWS diretamente em ambiente local, sem a necessidade de ter uma conta na AWS ou sequer gastar um dólar por isso. A palestra foi realizada na trilha stadium, principal trilha do evento.",
+    "type": "talk",
+    "event": {
+      "link": "https://thedevconf.com/tdc/2020/poaonline/trilha-cloud-e-containers",
+      "name": "#TheDevConf | Porto Alegre Online : Trilha Cloud e Containers"
+    },
+    "additionalLinks": [
+      "https://thedevconf.com/palestrante/roberto-alves"
+    ],
+    "slides": "https://www2.slideshare.net/RobertoAlves95/localstack-tdc-porto-alegre-2020",
+    "tags": ["tdc", "localstack", "cloud", "containers"],
+    "location": {
+      "country": "Brasil",
+      "uf": "SP",
+      "city": "São Paulo"
+    },
+    "language": "pt-br",
+    "date": "05-12-2020"
+  },
+  {
     "title": "Blue/Green Deployment Pattern",
     "abstract": "Nessa palestra apresento uma maneira segura de realizar a substituição de uma versão em produção, distribuindo gradualmente o tráfego da aplicação entre os usuários ativos.",
     "type": "talk",
