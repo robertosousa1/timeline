@@ -24,7 +24,7 @@ Github:  [github.com/robertosousa1](https://github.com/robertosousa1)
 - [Palestras (02)](#palestras)
 - [Eventos (09)](#eventos)
 - [Projetos (02)](#projetos)
-- [Artigos (01)](#blog-posts)
+- [Artigos (01)](#artigos)
 
 ## Palestras
 

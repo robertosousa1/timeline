@@ -1,5 +1,47 @@
 [
   {
+    "title": "Como o Einstein se preparou para sustentar o aumento exponencial de uso da Telemedicina no auge da pandemia",
+    "abstract": "Nessa palestra contamos foi a experiência de participar da preparação das aplicações da Telemedicina do Hospital Albert Einstein para um nível de uso surpreendente, provocado pela pandemia do covid-19.",
+    "type": "talk",
+    "event": {
+      "link": "https://thedevconf.com/tdc/2020/recifeonline/trilha-arquitetura",
+      "name": "#TheDevConf | Recife Online : Trilha Arquitetura"
+    },
+    "additionalLinks": [
+      "https://photos.google.com/share/AF1QipOEb6nEPKLWc6VdCdQ7rXSBhEk6UPHQpovkPPZq29YBbzq3Z5vdwnbdaWHyShE9LQ/photo/AF1QipOlnCFq2-hkFmNC4cZsuMx2G6ogWIaO5mLy9e_v?key=ZWpleG85WEIxU2d3d2JhOUMxYi1XeGtHdUhWMWZR"
+    ],
+    "slides": "https://www2.slideshare.net/RobertoAlves95/como-o-einstein-se-preparou-para-sustentar-o-aumento-exponencial-de-uso-da-telemedicina-no-auge-da-pandemia-tdc-recife-2020",
+    "tags": ["tdc", "einstein"],
+    "location": {
+      "country": "Brasil",
+      "uf": "SP",
+      "city": "São Paulo"
+    },
+    "language": "pt-br",
+    "date": "30-10-2020"
+  },
+  {
+    "title": "Serverless - A escalabilidade ideal!",
+    "abstract": "Nessa palestra contei sobre a experiência que tive de participar de um projeto que teve um aumento exponencial de uso durante a pandemia e ainda que contasse com uma escalabilidade configurada, enfrentávamos casos de stress devido o tempo de levantar novas máquinas, entretanto ao migrarmos os contêineres para o modelo serverless, finalmente, conseguimos a escalabilidade ideal.",
+    "type": "talk",
+    "event": {
+      "link": "https://www.youtube.com/watch?v=MoaC2cdXZ6g&feature=youtu.be&t=3756&ab_channel=AWSUserGroupS%C3%A3oPaulo",
+      "name": "Serverless Week 2020 - A escalabilidade ideal"
+    },
+    "additionalLinks": [
+      "https://www.serverlessweek.com/"
+    ],
+    "slides": "https://www2.slideshare.net/RobertoAlves95/serverless-week",
+    "tags": ["serverlessweek", "serverles"],
+    "location": {
+      "country": "Brasil",
+      "uf": "SP",
+      "city": "São Paulo"
+    },
+    "language": "pt-br",
+    "date": "29-10-2020"
+  },
+  {
     "title": "Streams, a melhor e mais incompreendida idéia do Node.js!",
     "abstract": "Palestra sobre Streams, um dos recursos mais poderosos e maduros do Node.js. Mostrando como Node pode ser a escolha certa quando o assunto é processar e receber arquivos sob demanda.",
     "type": "talk",
