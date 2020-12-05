@@ -12,21 +12,151 @@ Github:  [github.com/robertosousa1](https://github.com/robertosousa1)
 
 ### Resumo das contribuições
 
-* **Palestras**: agosto/2020 - junho/2020 
+* **Palestras**: dezembro/2020 - junho/2020 
 * **Eventos**: outubro/2020 - abril/2020 
 * **Projetos**: setembro/2020 - abril/2020 
 * **Artigos**: outubro/2020 - outubro/2020 
 
-#### Número de apresentações: 13
+#### Número de apresentações: 18
 
 ## Sumário
 
-- [Palestras (02)](#palestras)
+- [Palestras (07)](#palestras)
 - [Eventos (09)](#eventos)
 - [Projetos (02)](#projetos)
 - [Artigos (01)](#artigos)
 
 ## Palestras
+
+### LocalStack - A 'nuvem offline' (pt-br)
+
+#### Data: 05-12-2020
+
+
+<a href="https://thedevconf.com/tdc/2020/poaonline/trilha-cloud-e-containers" target="_blank">#TheDevConf | Porto Alegre Online : Trilha Cloud e Containers</a>
+
+
+  
+
+
+Resumo:
+
+> Palestra focada na incrível tecnologia chamada LocalStack e apelidada de 'nuvem offline', capaz de emular serviços AWS diretamente em ambiente local, sem a necessidade de ter uma conta na AWS ou sequer gastar um dólar por isso. A palestra foi realizada na trilha stadium, principal trilha do evento.
+> 
+> <b>Links</b>
+> 
+> - <a href="https://thedevconf.com/palestrante/roberto-alves" target="_blank">https://thedevconf.com/palestrante/roberto-alves</a>
+> 
+
+
+_Tags: `tdc`, `localstack`, `cloud`, `containers`_
+
+
+Localização: São Paulo - SP, Brasil.
+
+### Blue/Green Deployment Pattern (pt-br)
+
+#### Data: 24-11-2020
+
+
+<a href="https://devopsdays.org/events/2020-sao-paulo/program/roberto-alves/" target="_blank">Blue/Green Deployment Pattern - DevOpsDays 2020</a>
+
+
+  
+
+
+Resumo:
+
+> Nessa palestra apresento uma maneira segura de realizar a substituição de uma versão em produção, distribuindo gradualmente o tráfego da aplicação entre os usuários ativos.
+> 
+> <b>Links</b>
+> 
+> - <a href="https://devopsdays.org/events/2020-sao-paulo/speakers/roberto-alves/" target="_blank">https://devopsdays.org/events/2020-sao-paulo/speakers/roberto-alves/</a>
+> 
+
+
+_Tags: `devops`, `devopsdays`, `deployment`_
+
+
+Localização: São Paulo - SP, Brasil.
+
+### Teste de carga com Node.js (pt-br)
+
+#### Data: 21-11-2020
+
+
+<a href="https://www.youtube.com/watch?v=CHGe3XjvtVg&ab_channel=AmericanaTechConf" target="_blank">Teste de carga com Node.js - Americana Tech Conf 2020</a>
+
+
+  
+
+
+Resumo:
+
+> Existe uma série de mitos do que o Node.js pode ou não fazer. Nessa palestra, mostro como Node.js com a library AutoCannon é uma excelente opção quando o assunto é benchmarking (teste de carga) em serviços web.
+> 
+> <b>Links</b>
+> 
+> - <a href="https://www.americanatechconf.com.br/" target="_blank">https://www.americanatechconf.com.br/</a>
+> 
+
+
+_Tags: `nodejs`, `benchmarking`_
+
+
+Localização: São Paulo - SP, Brasil.
+
+### Como o Einstein se preparou para sustentar o aumento exponencial de uso da Telemedicina no auge da pandemia (pt-br)
+
+#### Data: 30-10-2020
+
+
+<a href="https://thedevconf.com/tdc/2020/recifeonline/trilha-arquitetura" target="_blank">#TheDevConf | Recife Online : Trilha Arquitetura</a>
+
+
+  
+
+
+Resumo:
+
+> Nessa palestra contamos foi a experiência de participar da preparação das aplicações da Telemedicina do Hospital Albert Einstein para um nível de uso surpreendente, provocado pela pandemia do covid-19.
+> 
+> <b>Links</b>
+> 
+> - <a href="https://photos.google.com/share/AF1QipOEb6nEPKLWc6VdCdQ7rXSBhEk6UPHQpovkPPZq29YBbzq3Z5vdwnbdaWHyShE9LQ/photo/AF1QipOlnCFq2-hkFmNC4cZsuMx2G6ogWIaO5mLy9e_v?key=ZWpleG85WEIxU2d3d2JhOUMxYi1XeGtHdUhWMWZR" target="_blank">https://photos.google.com/share/AF1QipOEb6nEPKLWc6VdCdQ7rXSBhEk6UPHQpovkPPZq29YBbzq3Z5vdwnbdaWHyShE9LQ/photo/AF1QipOlnCFq2-hkFmNC4cZsuMx2G6ogWIaO5mLy9e_v?key=ZWpleG85WEIxU2d3d2JhOUMxYi1XeGtHdUhWMWZR</a>
+> 
+
+
+_Tags: `tdc`, `einstein`_
+
+
+Localização: São Paulo - SP, Brasil.
+
+### Serverless - A escalabilidade ideal! (pt-br)
+
+#### Data: 29-10-2020
+
+
+<a href="https://www.youtube.com/watch?v=MoaC2cdXZ6g&feature=youtu.be&t=3756&ab_channel=AWSUserGroupS%C3%A3oPaulo" target="_blank">Serverless Week 2020 - A escalabilidade ideal</a>
+
+
+  
+
+
+Resumo:
+
+> Nessa palestra contei sobre a experiência que tive de participar de um projeto que teve um aumento exponencial de uso durante a pandemia e ainda que contasse com uma escalabilidade configurada, enfrentávamos casos de stress devido o tempo de levantar novas máquinas, entretanto ao migrarmos os contêineres para o modelo serverless, finalmente, conseguimos a escalabilidade ideal.
+> 
+> <b>Links</b>
+> 
+> - <a href="https://www.serverlessweek.com/" target="_blank">https://www.serverlessweek.com/</a>
+> 
+
+
+_Tags: `serverlessweek`, `serverles`_
+
+
+Localização: São Paulo - SP, Brasil.
 
 ### Streams, a melhor e mais incompreendida idéia do Node.js! (pt-br)
 
