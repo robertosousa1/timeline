@@ -1,5 +1,47 @@
 [
   {
+    "title": "Blue/Green Deployment Pattern",
+    "abstract": "Nessa palestra apresento uma maneira segura de realizar a substituição de uma versão em produção, distribuindo gradualmente o tráfego da aplicação entre os usuários ativos.",
+    "type": "talk",
+    "event": {
+      "link": "https://devopsdays.org/events/2020-sao-paulo/program/roberto-alves/",
+      "name": "Blue/Green Deployment Pattern - DevOpsDays 2020"
+    },
+    "additionalLinks": [
+      "https://devopsdays.org/events/2020-sao-paulo/speakers/roberto-alves/"
+    ],
+    "slides": "https://www2.slideshare.net/RobertoAlves95/bluegreen-deployment-pattern-devopsdays-2020",
+    "tags": ["devops", "devopsdays", "deployment"],
+    "location": {
+      "country": "Brasil",
+      "uf": "SP",
+      "city": "São Paulo"
+    },
+    "language": "pt-br",
+    "date": "24-11-2020"
+  },
+  {
+    "title": "Teste de carga com Node.js",
+    "abstract": "Existe uma série de mitos do que o Node.js pode ou não fazer. Nessa palestra, mostro como Node.js com a library AutoCannon é uma excelente opção quando o assunto é benchmarking (teste de carga) em serviços web.",
+    "type": "talk",
+    "event": {
+      "link": "https://www.youtube.com/watch?v=CHGe3XjvtVg&ab_channel=AmericanaTechConf",
+      "name": "Teste de carga com Node.js - Americana Tech Conf 2020"
+    },
+    "additionalLinks": [
+      "https://www.americanatechconf.com.br/"
+    ],
+    "slides": "https://www2.slideshare.net/RobertoAlves95/teste-de-carga-com-nodejs-americana-tech-conf-2020",
+    "tags": ["nodejs", "benchmarking"],
+    "location": {
+      "country": "Brasil",
+      "uf": "SP",
+      "city": "São Paulo"
+    },
+    "language": "pt-br",
+    "date": "21-11-2020"
+  },
+  {
     "title": "Como o Einstein se preparou para sustentar o aumento exponencial de uso da Telemedicina no auge da pandemia",
     "abstract": "Nessa palestra contamos foi a experiência de participar da preparação das aplicações da Telemedicina do Hospital Albert Einstein para um nível de uso surpreendente, provocado pela pandemia do covid-19.",
     "type": "talk",
