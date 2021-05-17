@@ -1,5 +1,27 @@
 [
   {
+    "title": "Descomplicando Queries com Elasticsearch",
+    "abstract": "Palestra com o tema 'Descomplicando Queries com Elasticsearch' apresentando como manipular de maneira prática as queries e encaixá-las em diferentes regras de negócio.",
+    "type": "talk",
+    "event": {
+      "link": "https://www.youtube.com/watch?v=wo27Rbai2P0&ab_channel=TechlipeAcademy",
+      "name": "[Elastic Virtual Group Brasil] Descomplicando Queries com Elasticsearch"
+    },
+    "additionalLinks": [
+      "https://community.elastic.co/events/details/elastic-elastic-brasil-virtual-group-presents-descomplicando-queries-com-elasticsearch/",
+      "https://www.meetup.com/pt-BR/Elastic-Brasil-Virtual/events/276517189/"
+    ],
+    "slides": "https://www.slideshare.net/RobertoAlves95/descomplicando-queries-com-elasticsearch",
+    "tags": ["elastic", "elasticsearch", "elk"],
+    "location": {
+      "country": "Brasil",
+      "uf": "SP",
+      "city": "São Paulo"
+    },
+    "language": "pt-br",
+    "date": "05-03-2021"
+  },
+  {
     "title": "LocalStack - A 'nuvem offline'",
     "abstract": "Palestra focada na incrível tecnologia chamada LocalStack e apelidada de 'nuvem offline', capaz de emular serviços AWS diretamente em ambiente local, sem a necessidade de ter uma conta na AWS ou sequer gastar um dólar por isso. A palestra foi realizada na trilha stadium, principal trilha do evento.",
     "type": "talk",
