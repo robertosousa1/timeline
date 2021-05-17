@@ -1,25 +1,57 @@
 [
-    {
-        "title": "Doctor Assistant",
-        "abstract": "Doctor Assistant é um projeto Open Source desenvolvido durante o Startup One 2020 da FIAP para o curso de Sistemas de informação. O projeto consiste na construção de uma rede neural convolucional profunda (Deep Convolutional Network) para detecção de câncer de pele em imagens médicas. Foram analisadas 25330 imagens para o desenvolvimento do algoritmo e o modelo final possui 4 saídas com acurácia de 99.55%.",
-        "type": "project",
-        "link": "https://github.com/robertosousa1/skin-cancer-detection",
-        "tags": ["machine learning", "medicina", "open source"],
-        "additionalLinks": [
-            "https://alb-ml-skin-cancer-api-1747886747.us-east-1.elb.amazonaws.com",
-            "https://www.linkedin.com/in/robertosousa01/#projects"
-        ],
-        "language": "en-us",
-        "date": "13-09-2020"
-    },
-    {
-        "title": "Replace Special Characters",
-        "abstract": "Uma biblioteca capaz de substituir caracteres especiais para seus respectivos caracteres simples. A biblioteca é um projeto open-source, foi publicada no gerenciador oficial de pacotes do JavaScript (NPM) e está disponível para qualquer pessoa contribuir e/ou utilizar.",
-        "type": "project",
-        "link": "https://www.npmjs.com/package/replace-special-characters",
-        "tags": ["nodejs", "npm", "library", "open source"],
-        "additionalLinks": ["https://github.com/robertosousa1/replace-special-characters"],
-        "language": "en-us",
-        "date": "20-04-2020"
-    }
+  {
+    "title": "React Native Walkthrough Carousel",
+    "abstract": "Um componente simples e prático para a criação de Walkthrough com carrossel para aplicativos em React Native.",
+    "type": "project",
+    "link": "https://www.npmjs.com/package/react-native-walkthrough-carousel",
+    "tags": [
+      "react-native",
+      "walkthrough",
+      "carousel",
+      "library",
+      "open source"
+    ],
+    "additionalLinks": [
+      "https://github.com/robertosousa1/react-native-walkthrough-carousel"
+    ],
+    "language": "en-us",
+    "date": "02-05-2021"
+  },
+  {
+    "title": "nJulius - Extension Chrome",
+    "abstract": "Esta extensão é apenas para fazer piadas com seus amigos ou colegas de trabalho. Ele irá substituir todas as imagens nas páginas que o usuário está navegando por imagens aleatórias do Julius - revivendo o momento da série que o personagem disse 'Eu vou estar lá.'.",
+    "type": "project",
+    "link": "https://chrome.google.com/webstore/detail/njulius/pjgibgekgjphdcnlpgckgjdjopmaipbj",
+    "tags": ["njulius", "extension", "chrome", "open source"],
+    "additionalLinks": [
+      "https://github.com/robertosousa1/replace-chrome-images-for-julius"
+    ],
+    "language": "en-us",
+    "date": "15-04-2021"
+  },
+  {
+    "title": "Doctor Assistant",
+    "abstract": "Doctor Assistant é um projeto Open Source desenvolvido durante o Startup One 2020 da FIAP para o curso de Sistemas de informação. O projeto consiste na construção de uma rede neural convolucional profunda (Deep Convolutional Network) para detecção de câncer de pele em imagens médicas. Foram analisadas 25330 imagens para o desenvolvimento do algoritmo e o modelo final possui 4 saídas com acurácia de 99.55%.",
+    "type": "project",
+    "link": "https://github.com/robertosousa1/skin-cancer-detection",
+    "tags": ["machine learning", "medicina", "open source"],
+    "additionalLinks": [
+      "https://alb-ml-skin-cancer-api-1747886747.us-east-1.elb.amazonaws.com",
+      "https://www.linkedin.com/in/robertosousa01/#projects"
+    ],
+    "language": "en-us",
+    "date": "13-09-2020"
+  },
+  {
+    "title": "Replace Special Characters",
+    "abstract": "Uma biblioteca capaz de substituir caracteres especiais para seus respectivos caracteres simples. A biblioteca é um projeto open-source, foi publicada no gerenciador oficial de pacotes do JavaScript (NPM) e está disponível para qualquer pessoa contribuir e/ou utilizar.",
+    "type": "project",
+    "link": "https://www.npmjs.com/package/replace-special-characters",
+    "tags": ["nodejs", "npm", "library", "open source"],
+    "additionalLinks": [
+      "https://github.com/robertosousa1/replace-special-characters"
+    ],
+    "language": "en-us",
+    "date": "20-04-2020"
+  }
 ]
