@@ -12,21 +12,48 @@ Github:  [github.com/robertosousa1](https://github.com/robertosousa1)
 
 ### Resumo das contribuições
 
-* **Palestras**: dezembro/2020 - junho/2020 
-* **Eventos**: outubro/2020 - abril/2020 
-* **Projetos**: setembro/2020 - abril/2020 
-* **Artigos**: outubro/2020 - outubro/2020 
+* **Palestras**: março/2021 - junho/2020 
+* **Eventos**: Invalid date - Invalid date 
+* **Projetos**: maio/2021 - abril/2020 
+* **Artigos**: março/2021 - outubro/2020 
 
-#### Número de apresentações: 18
+#### Número de apresentações: 23
 
 ## Sumário
 
-- [Palestras (07)](#palestras)
-- [Eventos (09)](#eventos)
-- [Projetos (02)](#projetos)
-- [Artigos (01)](#artigos)
+- [Palestras (08)](#palestras)
+- [Eventos (11)](#eventos)
+- [Projetos (04)](#projetos)
+- [Artigos (03)](#artigos)
 
 ## Palestras
+
+### Descomplicando Queries com Elasticsearch (pt-br)
+
+#### Data: 05-03-2021
+
+
+<a href="https://www.youtube.com/watch?v=wo27Rbai2P0&ab_channel=TechlipeAcademy" target="_blank">[Elastic Virtual Group Brasil] Descomplicando Queries com Elasticsearch</a>
+
+
+  
+
+
+Resumo:
+
+> Palestra com o tema 'Descomplicando Queries com Elasticsearch' apresentando como manipular de maneira prática as queries e encaixá-las em diferentes regras de negócio.
+> 
+> <b>Links</b>
+> 
+> - <a href="https://community.elastic.co/events/details/elastic-elastic-brasil-virtual-group-presents-descomplicando-queries-com-elasticsearch/" target="_blank">https://community.elastic.co/events/details/elastic-elastic-brasil-virtual-group-presents-descomplicando-queries-com-elasticsearch/</a>
+> - <a href="https://www.meetup.com/pt-BR/Elastic-Brasil-Virtual/events/276517189/" target="_blank">https://www.meetup.com/pt-BR/Elastic-Brasil-Virtual/events/276517189/</a>
+> 
+
+
+_Tags: `elastic`, `elasticsearch`, `elk`_
+
+
+Localização: São Paulo - SP, Brasil.
 
 ### LocalStack - A 'nuvem offline' (pt-br)
 
@@ -219,6 +246,34 @@ Localização: São Paulo - SP, Brasil.
 
 ## Eventos
 
+### <a href="https://thedevconf.com/tdc/2021/connections/trilha-javascript-e-nodejs" target="_blank">Coordenador TDC Connections 2021 - Trilha Javascript e Node.js (pt-br)</a>
+
+#### Data: 80-04-2021 - 08-06-2021
+
+
+Resumo:
+
+> Como Coordenador realizamos a seleção das palestras, o tema e os participantes do Painel e realizamos o suporte operacional para todos os integrantes.
+> 
+> 
+
+
+_Tags: `tdc`, `javascript`, `nodejs`_
+
+### <a href="https://thedevconf.com/tdc/2021/innovation/trilha-cloud" target="_blank">Coordenador TDC Innovation 2021 - Trilha Cloud (pt-br)</a>
+
+#### Data: 28-01-2021 - 25-03-2021
+
+
+Resumo:
+
+> Como Coordenador realizamos a seleção das palestras, o tema e os participantes do Painel e realizamos o suporte operacional para todos os integrantes.
+> 
+> 
+
+
+_Tags: `tdc`, `cloud`_
+
 ### <a href="https://hipsters.tech/telemedicina-e-saude-digital-hipsters-ponto-tech-223/" target="_blank">Convidado - Podcast (pt-br)</a>
 
 #### Data: 20-10-2020
@@ -372,6 +427,40 @@ _Tags: `nodejs`, `redis`_
 
 ## Projetos
 
+### <a href="https://www.npmjs.com/package/react-native-walkthrough-carousel" target="_blank">React Native Walkthrough Carousel (en-us)</a>
+
+#### Data: 02-05-2021
+
+
+Resumo:
+
+> Um componente simples e prático para a criação de Walkthrough com carrossel para aplicativos em React Native.
+> 
+> <b>Links</b>
+> 
+> - <a href="https://github.com/robertosousa1/react-native-walkthrough-carousel" target="_blank">https://github.com/robertosousa1/react-native-walkthrough-carousel</a>
+> 
+
+
+_Tags: `react-native`, `walkthrough`, `carousel`, `library`, `open source`_
+
+### <a href="https://chrome.google.com/webstore/detail/njulius/pjgibgekgjphdcnlpgckgjdjopmaipbj" target="_blank">nJulius - Extension Chrome (en-us)</a>
+
+#### Data: 15-04-2021
+
+
+Resumo:
+
+> Esta extensão é apenas para fazer piadas com seus amigos ou colegas de trabalho. Ele irá substituir todas as imagens nas páginas que o usuário está navegando por imagens aleatórias do Julius - revivendo o momento da série que o personagem disse 'Eu vou estar lá.'.
+> 
+> <b>Links</b>
+> 
+> - <a href="https://github.com/robertosousa1/replace-chrome-images-for-julius" target="_blank">https://github.com/robertosousa1/replace-chrome-images-for-julius</a>
+> 
+
+
+_Tags: `njulius`, `extension`, `chrome`, `open source`_
+
 ### <a href="https://github.com/robertosousa1/skin-cancer-detection" target="_blank">Doctor Assistant (en-us)</a>
 
 #### Data: 13-09-2020
@@ -409,6 +498,50 @@ _Tags: `nodejs`, `npm`, `library`, `open source`_
 
 
 ## Artigos
+
+### <a href="https://imasters.com.br/docker/podman-alternativa-ao-docker" target="_blank">Podman, a nova opção para container engine – uma alternativa ao Docker (pt-br)</a>
+
+#### Data: 24-03-2021
+
+
+Portal:
+
+> <a href="https://imasters.com.br/docker/podman-alternativa-ao-docker" target="_blank">iMasters Post</a>
+
+
+Resumo:
+
+> Docker surgiu em 2013 e ajudou os devs a trabalharem localmente em suas máquinas e disponibilizar um código em produção. Mas agora, há também o Podman.
+> 
+> <b>Links</b>
+> 
+> - <a href="https://imasters.com.br/perfil/robertosousa" target="_blank">https://imasters.com.br/perfil/robertosousa</a>
+> 
+
+
+_Tags: `imasters`_
+
+### <a href="https://imasters.com.br/codigo/github-arquivos-100mb" target="_blank">Github com arquivos com mais de 100MB: o que fazer? (pt-br)</a>
+
+#### Data: 02-03-2021
+
+
+Portal:
+
+> <a href="https://imasters.com.br/codigo/github-arquivos-100mb" target="_blank">iMasters Post</a>
+
+
+Resumo:
+
+> O Github impõe um limite de armazenamento em 100MB para arquivos individuais. E se meu arquivo possui mais de 100MB? O que fazer?
+> 
+> <b>Links</b>
+> 
+> - <a href="https://imasters.com.br/perfil/robertosousa" target="_blank">https://imasters.com.br/perfil/robertosousa</a>
+> 
+
+
+_Tags: `imasters`_
 
 ### <a href="https://imasters.com.br/javascript/descomplicando-call-apply-e-bind-em-javascript" target="_blank">Descomplicando call, apply e bind em JavaScript (pt-br)</a>
 
