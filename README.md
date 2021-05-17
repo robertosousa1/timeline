@@ -13,7 +13,7 @@ Github:  [github.com/robertosousa1](https://github.com/robertosousa1)
 ### Resumo das contribuições
 
 * **Palestras**: março/2021 - junho/2020 
-* **Eventos**: Invalid date - Invalid date 
+* **Eventos**: abril/2021 - abril/2020 
 * **Projetos**: maio/2021 - abril/2020 
 * **Artigos**: março/2021 - outubro/2020 
 
@@ -248,7 +248,7 @@ Localização: São Paulo - SP, Brasil.
 
 ### <a href="https://thedevconf.com/tdc/2021/connections/trilha-javascript-e-nodejs" target="_blank">Coordenador TDC Connections 2021 - Trilha Javascript e Node.js (pt-br)</a>
 
-#### Data: 80-04-2021 - 08-06-2021
+#### Data: 08-04-2021 - 08-06-2021
 
 
 Resumo:
