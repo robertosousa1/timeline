@@ -7,7 +7,7 @@
     "link": "https://thedevconf.com/tdc/2021/connections/trilha-javascript-e-nodejs",
     "tags": ["tdc", "javascript", "nodejs"],
     "language": "pt-br",
-    "date": "80-04-2021 - 08-06-2021"
+    "date": "08-04-2021 - 08-06-2021"
   },
   {
     "title": "Coordenador TDC Innovation 2021 - Trilha Cloud",
@@ -23,9 +23,7 @@
     "title": "Convidado - Podcast",
     "abstract": "Participação no Podcast da Hipsters.Tech do Grupo Alura sobre Telemedicina e saúde digital, abordando tópicos como contexto histórico, avanços tecnológicos, pandemia, legislação, etc.",
     "type": "video",
-    "additionalLinks": [
-      "https://hipsters.tech/"
-    ],
+    "additionalLinks": ["https://hipsters.tech/"],
     "link": "https://hipsters.tech/telemedicina-e-saude-digital-hipsters-ponto-tech-223/",
     "tags": ["podcast", "telemedicina", "alura"],
     "language": "pt-br",
