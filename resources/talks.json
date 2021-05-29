@@ -1,5 +1,24 @@
 [
   {
+    "title": "Explorando as camadas para construção de containers Docker",
+    "abstract": "Palestra na DockerCon com o tema 'Explorando as camadas para construção de containers Docker' apresentando de forma prática como é a construção de uma imagem em camadas, processo chamado de Docker layers.",
+    "type": "talk",
+    "event": {
+      "link": "https://docker.events.cube365.net/dockercon-live/2021/community/kBQTYj9chpaj6Fpb3",
+      "name": "[DockerConBR 2021] Explorando as camadas para construção de containers Docker"
+    },
+    "additionalLinks": [],
+    "slides": "https://www.slideshare.net/RobertoAlves95/dockerconbr-2021",
+    "tags": ["docker", "dockercon", "layers"],
+    "location": {
+      "country": "Brasil",
+      "uf": "SP",
+      "city": "São Paulo"
+    },
+    "language": "pt-br",
+    "date": "27-05-2021"
+  },
+  {
     "title": "Descomplicando Queries com Elasticsearch",
     "abstract": "Palestra com o tema 'Descomplicando Queries com Elasticsearch' apresentando como manipular de maneira prática as queries e encaixá-las em diferentes regras de negócio.",
     "type": "talk",
@@ -29,9 +48,7 @@
       "link": "https://thedevconf.com/tdc/2020/poaonline/trilha-cloud-e-containers",
       "name": "#TheDevConf | Porto Alegre Online : Trilha Cloud e Containers"
     },
-    "additionalLinks": [
-      "https://thedevconf.com/palestrante/roberto-alves"
-    ],
+    "additionalLinks": ["https://thedevconf.com/palestrante/roberto-alves"],
     "slides": "https://www2.slideshare.net/RobertoAlves95/localstack-tdc-porto-alegre-2020",
     "tags": ["tdc", "localstack", "cloud", "containers"],
     "location": {
@@ -71,9 +88,7 @@
       "link": "https://www.youtube.com/watch?v=CHGe3XjvtVg&ab_channel=AmericanaTechConf",
       "name": "Teste de carga com Node.js - Americana Tech Conf 2020"
     },
-    "additionalLinks": [
-      "https://www.americanatechconf.com.br/"
-    ],
+    "additionalLinks": ["https://www.americanatechconf.com.br/"],
     "slides": "https://www2.slideshare.net/RobertoAlves95/teste-de-carga-com-nodejs-americana-tech-conf-2020",
     "tags": ["nodejs", "benchmarking"],
     "location": {
@@ -113,9 +128,7 @@
       "link": "https://www.youtube.com/watch?v=MoaC2cdXZ6g&feature=youtu.be&t=3756&ab_channel=AWSUserGroupS%C3%A3oPaulo",
       "name": "Serverless Week 2020 - A escalabilidade ideal"
     },
-    "additionalLinks": [
-      "https://www.serverlessweek.com/"
-    ],
+    "additionalLinks": ["https://www.serverlessweek.com/"],
     "slides": "https://www2.slideshare.net/RobertoAlves95/serverless-week",
     "tags": ["serverlessweek", "serverles"],
     "location": {
@@ -161,9 +174,7 @@
       "link": "https://www.meetup.com/pt-BR/AngularJS-Sao-Paulo/events/270774440/",
       "name": "AngularSP #28"
     },
-    "additionalLinks": [
-      "https://www.youtube.com/watch?v=kqHDCh6ljbE&t=3460s"
-    ],
+    "additionalLinks": ["https://www.youtube.com/watch?v=kqHDCh6ljbE&t=3460s"],
     "slides": "https://www.slideshare.net/RobertoAlves95/explorando-o-mundo-serverless-235292327",
     "video": "https://www.youtube.com/watch?v=a7zkyhaTZzM&t=1754s",
     "tags": ["serverless", "angular"],

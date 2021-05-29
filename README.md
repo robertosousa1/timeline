@@ -12,21 +12,44 @@ Github:  [github.com/robertosousa1](https://github.com/robertosousa1)
 
 ### Resumo das contribuições
 
-* **Palestras**: março/2021 - junho/2020 
+* **Palestras**: maio/2021 - junho/2020 
 * **Eventos**: abril/2021 - abril/2020 
 * **Projetos**: maio/2021 - abril/2020 
 * **Artigos**: março/2021 - outubro/2020 
 
-#### Número de apresentações: 23
+#### Número de apresentações: 24
 
 ## Sumário
 
-- [Palestras (08)](#palestras)
+- [Palestras (09)](#palestras)
 - [Eventos (11)](#eventos)
 - [Projetos (04)](#projetos)
 - [Artigos (03)](#artigos)
 
 ## Palestras
+
+### Explorando as camadas para construção de containers Docker (pt-br)
+
+#### Data: 27-05-2021
+
+
+<a href="https://docker.events.cube365.net/dockercon-live/2021/community/kBQTYj9chpaj6Fpb3" target="_blank">[DockerConBR 2021] Explorando as camadas para construção de containers Docker</a>
+
+
+  
+
+
+Resumo:
+
+> Palestra na DockerCon com o tema 'Explorando as camadas para construção de containers Docker' apresentando de forma prática como é a construção de uma imagem em camadas, processo chamado de Docker layers.
+> 
+> 
+
+
+_Tags: `docker`, `dockercon`, `layers`_
+
+
+Localização: São Paulo - SP, Brasil.
 
 ### Descomplicando Queries com Elasticsearch (pt-br)
 
